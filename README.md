@@ -109,7 +109,7 @@
       <h3 align="center">🌐 NextHire – Job Posting & Hiring Platform</h3>
       <div align="center">
         <a href="https://github.com/Dipta117/NextHire">
-      <img src="https://github.com/user-attachments/assets/78ad3fa3-9adb-4878-860c-5c0f63aa607a" width="90%" alt="NextHire Project" />
+<img width="612" height="514" alt="Image" src="https://github.com/user-attachments/assets/2a380d6e-c697-4cfa-a064-8e5dd963e651" />
         </a>
       </div>
     </td>
