@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipta117&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
   <img src="https://img.shields.io/github/followers/dipta117?label=Followers&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/dipta117?label=Stars&style=for-the-badge&color=yellow" />
 </div>
@@ -90,7 +90,7 @@
       <h3 align="center">⚡ ReliefDB – Disaster Relief Management Platform</h3>
       <div align="center">
         <a href="https://github.com/Dipta117/ReliefDB">
-          <img src="https://github.com/user-attachments/assets/a11c6c4c-8641-46c2-bc03-3007ccd72379" width="90%" alt="ReliefDB Screenshot" />
+<img width="1020" height="900" alt="Image" src="https://github.com/user-attachments/assets/5ae65baa-87fd-4113-abbc-6d82984527cd" />
         </a>
       </div>
     </td>
@@ -98,7 +98,7 @@
       <h3 align="center">📱 UniConnect – University Social Platform</h3>
       <div align="center">
         <a href="https://github.com/Dipta117/UniConnect">
-          <img src="https://github.com/user-attachments/assets/a5bdd103-6055-4906-ab5f-7aa8cecf2cc0" width="90%" alt="UniConnect Screenshot" />
+<img width="600" height="360" alt="Image" src="https://github.com/user-attachments/assets/d30e0051-9843-439a-a080-c1de6d661e20" />
         </a>
       </div>
     </td>
@@ -109,7 +109,7 @@
       <h3 align="center">🌐 NextHire – Job Posting & Hiring Platform</h3>
       <div align="center">
         <a href="https://github.com/Dipta117/NextHire">
-          <img src="https://github.com/user-attachments/assets/78ad3fa3-9adb-4878-860c-5c0f63aa607a" width="90%" alt="NextHire Screenshot" />
+      <img src="https://github.com/user-attachments/assets/78ad3fa3-9adb-4878-860c-5c0f63aa607a" width="90%" alt="NextHire Project" />
         </a>
       </div>
     </td>
