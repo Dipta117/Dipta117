@@ -11,21 +11,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dipta117&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats & Analytics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipta117&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🛠️ Tech Stack & Expertise
 
