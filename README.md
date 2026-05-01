@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&color=4E9CFF&center=true&vCenter=true&width=650&lines=Hi+I'm+Dipta+Chowdhury;A+Passionate+Developer;Turning+Ideas+Into+Clean%2C+Scalable+Code" alt="Typing Animation">
 </p>
 
-<div align="center">
-
-  <img src="https://img.shields.io/github/followers/dipta117?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/dipta117?label=Stars&style=for-the-badge&color=yellow" />
-</div>
 
 ---
 
